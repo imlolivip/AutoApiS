@@ -137,7 +137,7 @@ AutoApi系列：AutoApi、AutoApiSecret、AutoApiSR、AutoApiS
 * 第五步，进入你的个人设置页面(右上角头像 Settings，不是仓库里的 Settings)，选择 Developer settings > Personal access tokens > Generate new token,
 
   ![image](https://github.com/wangziyingwen/ImageHosting/blob/master/AutoApi/Settings.png)
-  ![image](https://github.com/wangziyingwen/ImageHosting/blob/master/AutoApi/token.png)
+  ![image](https://github.com/wangziyingwen/ImageHosting/blob/master/AutoApi/token.png) 
 
   设置名字为GITHUB_TOKEN , 然后勾选 repo , admin:repo_hook , workflow 等选项，最后点击Generate token即可。
   
